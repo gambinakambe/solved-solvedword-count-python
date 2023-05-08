@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedword-count-python
+<br>
+A common utility on Unix/Linus systems is a small program called “wc.” This program analyzes a file to detrmine the number of lines, words, and characters contained therein. Write your own version of wc. The program should accept a file name as input and then print three numbers showing the count of lines, words, and characters in the file.
